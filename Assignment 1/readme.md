@@ -24,7 +24,11 @@ The following **bonus** features are implemented:
 ## Screenshot and/or Video Walkthrough
 
 <img src="https://imgur.com/a/DI1T5MH" title='Screenshots of website' width='' alt='Screenshot 1: Displays mix of headers, paragraphs, and divs. Screenshot 2: CSS code displaying 4 ways to format. Screenshot 3: Displays the 3 paragraphs and the github link as a button. Screenshot 4: Displays the modified title and the Image used  ' />
-(if picture link doesn't show pictures: https://imgur.com/a/DI1T5MH)
+(if picture link doesn't show pictures: https://imgur.com/a/DI1T5MH
+Screenshot 1: Displays mix of headers, paragraphs, and divs. 
+Screenshot 2: CSS code displaying 4 ways to format. 
+Screenshot 3: Displays the 3 paragraphs and the github link as a button. 
+Screenshot 4: Displays the modified title and the Image used)
 
 ## Notes:
 PROVIDE RELEVANT OR ADDITIONAL INFORMATION HERE. Below are formatting options to add emphasis in text
